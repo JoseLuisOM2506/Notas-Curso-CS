@@ -1,0 +1,15 @@
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ConsoleApp_Primera_aplicacion.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ConsoleApp_Primera_aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ConsoleApp_Primera_aplicacion.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ConsoleApp_Primera_aplicacion.AssemblyInfo.cs
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ConsoleApp_Primera_aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\bin\Debug\net6.0\ConsoleApp_Primera_aplicacion.exe
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\bin\Debug\net6.0\ConsoleApp_Primera_aplicacion.deps.json
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\bin\Debug\net6.0\ConsoleApp_Primera_aplicacion.runtimeconfig.json
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\bin\Debug\net6.0\ConsoleApp_Primera_aplicacion.dll
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\bin\Debug\net6.0\ConsoleApp_Primera_aplicacion.pdb
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ConsoleApp_Primera_aplicacion.dll
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\refint\ConsoleApp_Primera_aplicacion.dll
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ConsoleApp_Primera_aplicacion.pdb
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ConsoleApp_Primera_aplicacion.genruntimeconfig.cache
+C:\Users\luisj\Documents\Programacion\Curso_C#_Visual_Studio\ConsoleApp_Primera_aplicacion\obj\Debug\net6.0\ref\ConsoleApp_Primera_aplicacion.dll
