@@ -37,7 +37,7 @@
 //clase "Console".
 using System;                       
 
-//Un namespace es un "conjunto de codigo" donde una Clase no puede tener el mismo nombre o identificador que otra. Pero si se
+//Un namespace es un "conjunto de código" donde una Clase no puede tener el mismo nombre o identificador que otra. Pero si se
 //crea otro namespace, es posible repetir los identificadores.
 namespace ConsoleApp_Primera_aplicacion     
 {

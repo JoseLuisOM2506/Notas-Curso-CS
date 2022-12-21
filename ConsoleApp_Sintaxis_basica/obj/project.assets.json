@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Primera_aplicacion\\ConsoleApp_Primera_aplicacion.csproj",
-      "projectName": "ConsoleApp_Primera_aplicacion",
-      "projectPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Primera_aplicacion\\ConsoleApp_Primera_aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Sintaxis_basica\\ConsoleApp_Sintaxis_basica.csproj",
+      "projectName": "ConsoleApp_Sintaxis_basica",
+      "projectPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Sintaxis_basica\\ConsoleApp_Sintaxis_basica.csproj",
       "packagesPath": "C:\\Users\\danyj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Primera_aplicacion\\obj\\",
+      "outputPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Sintaxis_basica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
