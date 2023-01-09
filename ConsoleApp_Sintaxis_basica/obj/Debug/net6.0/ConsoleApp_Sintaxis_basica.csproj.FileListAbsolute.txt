@@ -13,3 +13,18 @@ C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Si
 C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.pdb
 C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.genruntimeconfig.cache
 C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ref\ConsoleApp_Sintaxis_basica.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\bin\Debug\net6.0\ConsoleApp_Sintaxis_basica.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\bin\Debug\net6.0\ConsoleApp_Sintaxis_basica.deps.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\bin\Debug\net6.0\ConsoleApp_Sintaxis_basica.runtimeconfig.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\bin\Debug\net6.0\ConsoleApp_Sintaxis_basica.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\bin\Debug\net6.0\ConsoleApp_Sintaxis_basica.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.AssemblyInfo.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\refint\ConsoleApp_Sintaxis_basica.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ConsoleApp_Sintaxis_basica.genruntimeconfig.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Sintaxis_basica\obj\Debug\net6.0\ref\ConsoleApp_Sintaxis_basica.dll

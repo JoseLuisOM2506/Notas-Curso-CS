@@ -1,0 +1,15 @@
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\bin\Debug\net6.0\ConsoleApp_Metodos.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\bin\Debug\net6.0\ConsoleApp_Metodos.deps.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\bin\Debug\net6.0\ConsoleApp_Metodos.runtimeconfig.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\bin\Debug\net6.0\ConsoleApp_Metodos.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\bin\Debug\net6.0\ConsoleApp_Metodos.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ConsoleApp_Metodos.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ConsoleApp_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ConsoleApp_Metodos.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ConsoleApp_Metodos.AssemblyInfo.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ConsoleApp_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ConsoleApp_Metodos.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\refint\ConsoleApp_Metodos.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ConsoleApp_Metodos.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ConsoleApp_Metodos.genruntimeconfig.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Metodos\obj\Debug\net6.0\ref\ConsoleApp_Metodos.dll

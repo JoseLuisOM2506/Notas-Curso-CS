@@ -1,0 +1,15 @@
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\bin\Debug\net6.0\ConsoleApp_EstructurasDeControl.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\bin\Debug\net6.0\ConsoleApp_EstructurasDeControl.deps.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\bin\Debug\net6.0\ConsoleApp_EstructurasDeControl.runtimeconfig.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\bin\Debug\net6.0\ConsoleApp_EstructurasDeControl.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\bin\Debug\net6.0\ConsoleApp_EstructurasDeControl.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ConsoleApp_EstructurasDeControl.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ConsoleApp_EstructurasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ConsoleApp_EstructurasDeControl.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ConsoleApp_EstructurasDeControl.AssemblyInfo.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ConsoleApp_EstructurasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ConsoleApp_EstructurasDeControl.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\refint\ConsoleApp_EstructurasDeControl.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ConsoleApp_EstructurasDeControl.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ConsoleApp_EstructurasDeControl.genruntimeconfig.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_EstructurasDeControl\obj\Debug\net6.0\ref\ConsoleApp_EstructurasDeControl.dll
