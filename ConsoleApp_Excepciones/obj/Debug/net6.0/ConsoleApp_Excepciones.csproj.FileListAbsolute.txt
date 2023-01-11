@@ -1,0 +1,15 @@
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ConsoleApp_Excepciones.csproj.AssemblyReference.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ConsoleApp_Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ConsoleApp_Excepciones.AssemblyInfoInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ConsoleApp_Excepciones.AssemblyInfo.cs
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ConsoleApp_Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\bin\Debug\net6.0\ConsoleApp_Excepciones.exe
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\bin\Debug\net6.0\ConsoleApp_Excepciones.deps.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\bin\Debug\net6.0\ConsoleApp_Excepciones.runtimeconfig.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\bin\Debug\net6.0\ConsoleApp_Excepciones.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\bin\Debug\net6.0\ConsoleApp_Excepciones.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ConsoleApp_Excepciones.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\refint\ConsoleApp_Excepciones.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ConsoleApp_Excepciones.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ConsoleApp_Excepciones.genruntimeconfig.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Excepciones\obj\Debug\net6.0\ref\ConsoleApp_Excepciones.dll
