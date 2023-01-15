@@ -1,0 +1,15 @@
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\bin\Debug\net6.0\ConsoleApp_POO.exe
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\bin\Debug\net6.0\ConsoleApp_POO.deps.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\bin\Debug\net6.0\ConsoleApp_POO.runtimeconfig.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\bin\Debug\net6.0\ConsoleApp_POO.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\bin\Debug\net6.0\ConsoleApp_POO.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ConsoleApp_POO.csproj.AssemblyReference.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ConsoleApp_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ConsoleApp_POO.AssemblyInfoInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ConsoleApp_POO.AssemblyInfo.cs
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ConsoleApp_POO.csproj.CoreCompileInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ConsoleApp_POO.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\refint\ConsoleApp_POO.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ConsoleApp_POO.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ConsoleApp_POO.genruntimeconfig.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_POO\obj\Debug\net6.0\ref\ConsoleApp_POO.dll
