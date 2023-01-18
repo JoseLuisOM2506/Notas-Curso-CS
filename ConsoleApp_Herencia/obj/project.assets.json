@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_EstructurasDeControl\\ConsoleApp_EstructurasDeControl.csproj",
-      "projectName": "ConsoleApp_EstructurasDeControl",
-      "projectPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_EstructurasDeControl\\ConsoleApp_EstructurasDeControl.csproj",
+      "projectUniqueName": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Herencia\\ConsoleApp_Herencia.csproj",
+      "projectName": "ConsoleApp_Herencia",
+      "projectPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Herencia\\ConsoleApp_Herencia.csproj",
       "packagesPath": "C:\\Users\\danyj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_EstructurasDeControl\\obj\\",
+      "outputPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Herencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

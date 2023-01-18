@@ -1,0 +1,15 @@
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\bin\Debug\net6.0\ConsoleApp_Herencia.exe
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\bin\Debug\net6.0\ConsoleApp_Herencia.deps.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\bin\Debug\net6.0\ConsoleApp_Herencia.runtimeconfig.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\bin\Debug\net6.0\ConsoleApp_Herencia.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\bin\Debug\net6.0\ConsoleApp_Herencia.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ConsoleApp_Herencia.csproj.AssemblyReference.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ConsoleApp_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ConsoleApp_Herencia.AssemblyInfoInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ConsoleApp_Herencia.AssemblyInfo.cs
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ConsoleApp_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ConsoleApp_Herencia.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\refint\ConsoleApp_Herencia.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ConsoleApp_Herencia.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ConsoleApp_Herencia.genruntimeconfig.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Herencia\obj\Debug\net6.0\ref\ConsoleApp_Herencia.dll
