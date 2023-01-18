@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisj\\Documents\\Programacion\\Notas-Curso-CS\\ConsoleApp_Herencia\\ConsoleApp_Herencia.csproj",
-      "projectName": "ConsoleApp_Herencia",
-      "projectPath": "C:\\Users\\luisj\\Documents\\Programacion\\Notas-Curso-CS\\ConsoleApp_Herencia\\ConsoleApp_Herencia.csproj",
+      "projectUniqueName": "C:\\Users\\luisj\\Documents\\Programacion\\Notas-Curso-CS\\ConsoleApp_Interfaces\\ConsoleApp_Interfaces.csproj",
+      "projectName": "ConsoleApp_Interfaces",
+      "projectPath": "C:\\Users\\luisj\\Documents\\Programacion\\Notas-Curso-CS\\ConsoleApp_Interfaces\\ConsoleApp_Interfaces.csproj",
       "packagesPath": "C:\\Users\\luisj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisj\\Documents\\Programacion\\Notas-Curso-CS\\ConsoleApp_Herencia\\obj\\",
+      "outputPath": "C:\\Users\\luisj\\Documents\\Programacion\\Notas-Curso-CS\\ConsoleApp_Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

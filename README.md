@@ -11,3 +11,5 @@
 ### 5.- ConsoleApp_Excepciones
 ### 6.- ConsoleApp_POO
 ### 7.- ConsoleApp_Arreglos
+### 8.- ConsoleApp_Herencia
+### 9.- ConsoleApp_Interfaces

@@ -1,0 +1,15 @@
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\bin\Debug\net6.0\ConsoleApp_Interfaces.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\bin\Debug\net6.0\ConsoleApp_Interfaces.deps.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\bin\Debug\net6.0\ConsoleApp_Interfaces.runtimeconfig.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\bin\Debug\net6.0\ConsoleApp_Interfaces.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\bin\Debug\net6.0\ConsoleApp_Interfaces.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ConsoleApp_Interfaces.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ConsoleApp_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ConsoleApp_Interfaces.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ConsoleApp_Interfaces.AssemblyInfo.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ConsoleApp_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ConsoleApp_Interfaces.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\refint\ConsoleApp_Interfaces.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ConsoleApp_Interfaces.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ConsoleApp_Interfaces.genruntimeconfig.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Interfaces\obj\Debug\net6.0\ref\ConsoleApp_Interfaces.dll
