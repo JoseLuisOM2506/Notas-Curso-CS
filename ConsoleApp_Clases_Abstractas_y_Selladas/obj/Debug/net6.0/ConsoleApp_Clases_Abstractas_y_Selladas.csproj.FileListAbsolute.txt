@@ -1,0 +1,15 @@
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\bin\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.exe
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\bin\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.deps.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\bin\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.runtimeconfig.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\bin\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\bin\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.csproj.AssemblyReference.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.AssemblyInfoInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.AssemblyInfo.cs
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.csproj.CoreCompileInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\refint\ConsoleApp_Clases_Abstractas_y_Selladas.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ConsoleApp_Clases_Abstractas_y_Selladas.genruntimeconfig.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Clases_Abstractas_y_Selladas\obj\Debug\net6.0\ref\ConsoleApp_Clases_Abstractas_y_Selladas.dll

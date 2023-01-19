@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Interfaces\\ConsoleApp_Interfaces.csproj",
-      "projectName": "ConsoleApp_Interfaces",
-      "projectPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Interfaces\\ConsoleApp_Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Clases_Abstractas_y_Selladas\\ConsoleApp_Clases_Abstractas_y_Selladas.csproj",
+      "projectName": "ConsoleApp_Clases_Abstractas_y_Selladas",
+      "projectPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Clases_Abstractas_y_Selladas\\ConsoleApp_Clases_Abstractas_y_Selladas.csproj",
       "packagesPath": "C:\\Users\\danyj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\danyj\\Documents\\PROGRAMAS_C#_VISUAL STUDIO\\Notas-Curso-CS\\ConsoleApp_Clases_Abstractas_y_Selladas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
