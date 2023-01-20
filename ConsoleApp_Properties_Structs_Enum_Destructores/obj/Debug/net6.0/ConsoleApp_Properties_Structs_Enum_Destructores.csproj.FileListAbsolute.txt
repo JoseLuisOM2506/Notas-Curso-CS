@@ -1,0 +1,15 @@
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\bin\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\bin\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.deps.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\bin\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.runtimeconfig.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\bin\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\bin\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.AssemblyInfo.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\refint\ConsoleApp_Properties_Structs_Enum_Destructores.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ConsoleApp_Properties_Structs_Enum_Destructores.genruntimeconfig.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Properties_Structs_Enum_Destructores\obj\Debug\net6.0\ref\ConsoleApp_Properties_Structs_Enum_Destructores.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp_Properties_Structs_Enum_Destructores/1.0.0": {
+        "runtime": {
+          "ConsoleApp_Properties_Structs_Enum_Destructores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp_Properties_Structs_Enum_Destructores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
