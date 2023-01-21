@@ -1,0 +1,15 @@
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\bin\Debug\net6.0\ConsoleApp_Genericos.exe
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\bin\Debug\net6.0\ConsoleApp_Genericos.deps.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\bin\Debug\net6.0\ConsoleApp_Genericos.runtimeconfig.json
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\bin\Debug\net6.0\ConsoleApp_Genericos.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\bin\Debug\net6.0\ConsoleApp_Genericos.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ConsoleApp_Genericos.csproj.AssemblyReference.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ConsoleApp_Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ConsoleApp_Genericos.AssemblyInfoInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ConsoleApp_Genericos.AssemblyInfo.cs
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ConsoleApp_Genericos.csproj.CoreCompileInputs.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ConsoleApp_Genericos.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\refint\ConsoleApp_Genericos.dll
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ConsoleApp_Genericos.pdb
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ConsoleApp_Genericos.genruntimeconfig.cache
+C:\Users\danyj\Documents\PROGRAMAS_C#_VISUAL STUDIO\Notas-Curso-CS\ConsoleApp_Genericos\obj\Debug\net6.0\ref\ConsoleApp_Genericos.dll
