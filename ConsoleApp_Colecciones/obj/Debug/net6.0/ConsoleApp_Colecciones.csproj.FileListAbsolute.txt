@@ -1,0 +1,15 @@
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\bin\Debug\net6.0\ConsoleApp_Colecciones.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\bin\Debug\net6.0\ConsoleApp_Colecciones.deps.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\bin\Debug\net6.0\ConsoleApp_Colecciones.runtimeconfig.json
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\bin\Debug\net6.0\ConsoleApp_Colecciones.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\bin\Debug\net6.0\ConsoleApp_Colecciones.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ConsoleApp_Colecciones.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ConsoleApp_Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ConsoleApp_Colecciones.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ConsoleApp_Colecciones.AssemblyInfo.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ConsoleApp_Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ConsoleApp_Colecciones.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\refint\ConsoleApp_Colecciones.dll
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ConsoleApp_Colecciones.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ConsoleApp_Colecciones.genruntimeconfig.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\ConsoleApp_Colecciones\obj\Debug\net6.0\ref\ConsoleApp_Colecciones.dll
