@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFApp_Interfaces_graficas", "WPFApp_Interfaces_graficas.csproj", "{617D43BC-12C0-4B5D-AB75-0580E977B698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617D43BC-12C0-4B5D-AB75-0580E977B698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617D43BC-12C0-4B5D-AB75-0580E977B698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617D43BC-12C0-4B5D-AB75-0580E977B698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617D43BC-12C0-4B5D-AB75-0580E977B698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1065E2A-E931-4EF6-8CBF-AB42792BBF95}
+	EndGlobalSection
+EndGlobal

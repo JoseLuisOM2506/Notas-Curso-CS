@@ -1,0 +1,50 @@
+﻿<Window x:Class="WPFApp_Interfaces_graficas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp_Interfaces_graficas"
+        mc:Ignorable="d"
+        Title="Interfaces Gráficas" Height="450" Width="800">
+    <!--En la línea de código de arriba es posible modificar el titulo y tamaño de la interfaz-->
+
+    <!--Un grid es un contenedor para agrupar herramientas-->
+    <Grid Name="miGrid" >
+        <!--A continuación se definen las columnas del grid y su tamaño-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="175"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <!--Se indica que se ocupe lo que quede de espacio-->
+            <ColumnDefinition Width = "auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!--EL siguiente stackPanel tiene un evento de tipo bubbling y se ubica en la columna 0 del grid-->
+        <StackPanel Name="miStackPanel" ButtonBase.Click="miStackPanel_Click" Grid.Column="0">
+            <!--La siguiente etiqueta es para agregar un botton con las siguientes propiedades-->
+            <Button Content="Bienvenido" HorizontalAlignment="Center" Margin="15" FontSize="23"/>
+
+            <!--Las siguientes líneas de código muestran otra forma de trabajar con los botones de una manera más personalizada-->
+            <Button Margin="15">
+                <Button.Width>50</Button.Width>
+                <Button.Height>50</Button.Height>
+                <Button.Content>
+                    <WrapPanel>
+                        <TextBlock Foreground="Red">Hola</TextBlock>
+                        <TextBlock Foreground="Blue"> mundo</TextBlock>
+                    </WrapPanel>
+                </Button.Content>
+            </Button>
+
+            <!--El siguiente botón hace un llamado a un controlador de evento cuando se le da click-->
+            <Button Content="Mensaje" Margin="15" Click="Button_Click"></Button>
+
+        </StackPanel>
+
+        <!--EL siguiente stackPanel tiene un evento de tipo tunneling, se ubica en la columna 1 del grid y se expande en 2 -->
+        <StackPanel Name="miSatackPanel2" PreviewMouseLeftButtonDown="miSatackPanel2_PreviewMouseLeftButtonDown" Grid.Column="1" Grid.ColumnSpan="2">
+            <!--El siguiente botón hace un llamado a un controlador de evento cuando se le da click-->
+            <Button Content="Mensaje2" Margin="15" Click="Button_Click"></Button>
+
+        </StackPanel>
+    </Grid>
+</Window>
