@@ -1,0 +1,60 @@
+﻿<Window x:Class="WPFApp_Properties_Y_Data_Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp_Properties_Y_Data_Binding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Button Height =" 50" Width ="200" Content ="Dale!" Background ="LightBlue"  Grid.Column="0">
+            <!--Se pretende con el siguiente código, cambiar las propiedades del botón usando dependency properties-->
+            <Button.Style>
+                <Style TargetType="Button">
+                    <!--Se especifica el objetivo del estilo, que será el botón-->
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <!--Se utiliza un trigger para realizar una acción cuando el cursor este sobre el botón-->
+                            <Setter Property="FontSize" Value="25">
+                                <!--Se asigna un nuevo valor a la propiedad, cambiando el tamaño de la letra-->
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+        <!--Ejemplo para utilizar data binding-->
+        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+            <!-- A la propiedad texto se le aplica un binding o enlace del tipo OneWay-->
+            <TextBox Width="100" Name="miTexto" Margin="5" Text="{Binding ElementName=miSlider,Path=Value , Mode=OneWay}"></TextBox>
+            <!-- A la propiedad texto se le aplica un binding o enlace del tipo OneWayToSource-->
+            <TextBox Width="100" Name="miTexto2" Margin="5" Text="{Binding ElementName=miSlider,Path=Value , Mode=OneWayToSource}"></TextBox>
+            <!-- A la propiedad texto se le aplica un binding o enlace del tipo TwoWays-->
+            <TextBox Width="100" Name="miTexto3" Margin="5" Text="{Binding ElementName=miSlider,Path=Value , Mode=TwoWay}"></TextBox>
+            <!-- A la propiedad texto se le aplica un binding o enlace del tipo OneTime-->
+            <TextBox Width="100" Name="miTexto4" Margin="5" Text="{Binding ElementName=miSlider,Path=Value , Mode=OneTime}"></TextBox>
+
+            <Slider IsSnapToTickEnabled="True" Width="350" Name="miSlider" Minimum="0" Maximum="100" Value="10" ></Slider>
+        </StackPanel>
+
+        <!--Ejemplo para utilizar Interfaz INotifyPropertyChanged-->
+        <StackPanel Grid.Column="2">
+            <Label HorizontalAlignment="Center">Nombre:</Label>
+            <TextBox Width="175" Height="40" Margin="5" Text="{Binding Path=NOMBRE , Mode=TwoWay}"></TextBox>
+            <Label HorizontalAlignment="Center">Apellido:</Label>
+            <TextBox Width="175" Height="40" Margin="5" Text="{Binding Path=APELLIDO , Mode=TwoWay}"></TextBox>
+            <Label HorizontalAlignment="Center">Nombre completo:</Label>
+            <TextBox Width="175" Height="40" Margin="5" Text="{Binding Path=NOMBRE_COMPLETO , Mode=TwoWay}"></TextBox>
+        </StackPanel>
+
+    </Grid>
+</Window>
+

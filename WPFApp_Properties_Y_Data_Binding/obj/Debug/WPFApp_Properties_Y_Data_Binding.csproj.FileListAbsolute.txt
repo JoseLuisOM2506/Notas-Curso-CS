@@ -1,0 +1,16 @@
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\bin\Debug\WPFApp_Properties_Y_Data_Binding.exe.config
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\bin\Debug\WPFApp_Properties_Y_Data_Binding.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\bin\Debug\WPFApp_Properties_Y_Data_Binding.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\MainWindow.g.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\App.g.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding_MarkupCompile.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding_MarkupCompile.lref
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\MainWindow.baml
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding.g.resources
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding.Properties.Resources.resources
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding.csproj.GenerateResource.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Properties_Y_Data_Binding\obj\Debug\WPFApp_Properties_Y_Data_Binding.pdb
