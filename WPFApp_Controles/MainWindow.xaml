@@ -1,0 +1,115 @@
+﻿<Window x:Class="WPFApp_Controles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFApp_Controles"
+        mc:Ignorable="d"
+        Title="Ejemplos para usar Controles" Height="800" Width="1200">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!--Ejemplo para usar listbox-->
+        <ListBox Name="listaLugares"  Margin="25,25,25,100" Grid.Row="0" Grid.Column="0" HorizontalContentAlignment="Stretch">
+            <ListBox.ItemTemplate>
+                <!--Se accede a la plantilla para modificarla, cambiando la listbox para que ahora tenga 4 columnas-->
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <!--A cada columna se le agrega un textblock para poder hacer un binding a su texto-->
+                        <TextBlock Grid.Column="0" Text="{Binding Poblacion1}"></TextBlock>
+                        <TextBlock Grid.Column="1" Text="{Binding Temperatura1}"></TextBlock>
+                        <TextBlock Grid.Column="2" Text="{Binding Poblacion2}"></TextBlock>
+                        <TextBlock Grid.Column="3" Text="{Binding Temperatura2}"></TextBlock>
+
+                        <!-- La barra de progreso de igual forma utiliza un binding para acceder a la diferencia de temperatura,
+                             además, desencadena un evento para mostrar el valor numérico en una ventana emergente-->
+                        <ProgressBar Grid.Column="4" Minimum="0" Maximum="50" Value="{Binding DiferenciaTemp, Mode=OneWay}" 
+                         PreviewMouseDown="ProgressBar_PreviewMouseDown"></ProgressBar>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <!--El siguiente botón desencadena un evento que muestra la información del elemento seleccionado-->
+        <Button Grid.Column="0" Grid.Row="0" Margin="50,320,50,30" Click="Button_Click">Información</Button>
+
+        <!-- Ejemplo de uso de comboBox-->
+        <StackPanel Grid.Row="0" Grid.Column="1" Margin="40">
+            <ComboBox Name="menuLugares" >
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Poblacion1}"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+
+        <!--Ejemplo de uso de CheckBox-->
+        <StackPanel Grid.Row="0" Grid.Column="2" Margin="40">
+            <Label FontSize="20" HorizontalAlignment="Center">Países</Label>
+            <!--A esta checkbox se le habilito el tercer estado, neutro-->
+            <CheckBox Name="TodosCheck" IsThreeState="True"  Content="Agregar todos" Checked="TodosCheck_Checked" Unchecked="TodosCheck_Unchecked" ></CheckBox>
+            <StackPanel Margin="20">
+                <!--Los siguientes checkbox solo tienen dos estados-->
+                <CheckBox Name="check1" Checked="individual_Checked" Unchecked="individual_Unchecked"></CheckBox>
+                <CheckBox Name="check2" Checked="individual_Checked" Unchecked="individual_Unchecked" ></CheckBox>
+                <CheckBox Name="check3" Checked="individual_Checked" Unchecked="individual_Unchecked"></CheckBox>
+                <CheckBox Name="check4" Checked="individual_Checked" Unchecked="individual_Unchecked"></CheckBox>
+            </StackPanel>
+        </StackPanel>
+
+
+        <!--Ejemplo para usar RadioButton y agregar imágenes a la interfaz gráfica-->
+
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Row="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50" Foreground="Blue"> Semáforo</TextBlock>
+
+            <!--El siguiente stackpanel contendra los radiobutton-->
+            <StackPanel Grid.Row="1" Grid.Column="0" Margin="25">
+                <!--Los siguientes radiobutton desencadenan un evento cuando esta activados-->
+                <RadioButton Name="Rojo" Margin="40,25,100,25" Background="LightPink" Foreground="Red" Checked="Rojo_Checked">Rojo</RadioButton>
+                <RadioButton Name="Amarillo" Margin="40,25,100,25" Background="LightYellow" Foreground="DarkOrange" Checked="Amarillo_Checked">Amarillo</RadioButton>
+                <RadioButton Name="Verde"  Margin="40,25,100,25" Background="LightGreen" Foreground="Green" Checked="Verde_Checked">Verde</RadioButton>
+            </StackPanel>
+
+            <Grid Grid.Row="1" Grid.Column="1">
+                <!--Se agrega una imagen-->
+                <Image Source="Imagenes\Semaforo.png"></Image>
+                
+                <!--Se agregan 3 figuras de elipse-->
+                <Ellipse Name="eRojo" Width="71" Height="71" Margin="164,206,164,15" Fill="Red" RenderTransformOrigin="0.552,0.231" Visibility="Hidden"/>
+                <Ellipse Name="eAmarillo" Width="71" Height="71" Margin="164,121,164,100" Fill="Yellow" Visibility="Hidden"/>
+                <Ellipse Name="eVerde" Width="71" Height="71" Margin="164,34,164,187" Fill="Green" Visibility="Hidden" />
+            </Grid>
+
+        </Grid>
+
+
+    </Grid>
+
+</Window>

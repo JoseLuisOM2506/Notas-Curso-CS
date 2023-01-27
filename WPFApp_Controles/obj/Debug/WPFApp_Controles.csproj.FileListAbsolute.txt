@@ -1,0 +1,16 @@
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\bin\Debug\WPFApp_Controles.exe.config
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\bin\Debug\WPFApp_Controles.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\bin\Debug\WPFApp_Controles.pdb
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\MainWindow.g.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\App.g.cs
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles_MarkupCompile.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles_MarkupCompile.lref
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\MainWindow.baml
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles.g.resources
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles.Properties.Resources.resources
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles.csproj.GenerateResource.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles.exe
+C:\Users\luisj\Documents\Programacion\Notas-Curso-CS\WPFApp_Controles\obj\Debug\WPFApp_Controles.pdb
